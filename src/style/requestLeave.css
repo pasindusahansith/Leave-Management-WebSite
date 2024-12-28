@@ -1,0 +1,90 @@
+.personal-main-leave{
+    background-color: transparent;
+    height: auto;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.personal-left-leave{
+    background-color: white;
+    border-radius: 15px;
+    flex: 5;
+    height: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+}
+
+.personal-left-leave p{
+    font-size: 12px;
+    margin-bottom: 6px;
+    font-weight: 200;
+}
+
+.personal-right-leave{
+    background-color: transparent;
+    flex: 5;
+    align-items: start;
+    margin-left: 50px;
+}
+
+textarea{
+    width: 305px;
+    border-radius: 5px;
+}
+
+#btnsubmit{
+    width: 60px;
+    height: 25px;
+    margin-left: 90%;
+    background-color: rgb(70, 182, 70);
+    color: white;
+    border: none;
+}
+
+#btnsubmit:hover{
+    background-color: green;
+}
+
+#btndoc{
+    height: 26px;
+    width: 80px;
+}
+
+#leaveHistory{
+    margin-left: 85%;
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    font-size: 10px;
+    background-color: orange;
+    color: white;
+}
+
+#leaveHistory:hover{
+    background-color: rgb(243, 109, 0);
+}
+
+.leaveh3{
+    margin-top: -10px;
+    margin-bottom: 20px;
+    margin-left: -10px;
+}
+
+
+
+.custom-time-picker {
+    width: 100%;
+    padding-left: 2.5rem; /* Ensure input padding leaves space for the icon */
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  
